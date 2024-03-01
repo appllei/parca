@@ -1,6 +1,7 @@
+#include "teste.h"
 #include <stdio.h>
 
-int main(void) {
-  printf("Heeeeelloooooooo World\n");
-  return 0;
+int main(void){
+    hellorword();
+    return 0;
 }
